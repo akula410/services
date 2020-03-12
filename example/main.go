@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"services"
+	"github.com/akula410/services"
 )
 func main() {
 	var get = services.Get("https://dokamir.com.ua/")
